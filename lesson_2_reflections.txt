@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+I can start to versionize my files. A repoisitory is necessary for that.
